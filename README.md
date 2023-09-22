@@ -1,4 +1,4 @@
-]# Granted Dev Container
+# Granted Dev Container
 
 This repository contains the latest iteration of my attempt to load the [granted](granted.dev) toolchain into a dev container.
 
